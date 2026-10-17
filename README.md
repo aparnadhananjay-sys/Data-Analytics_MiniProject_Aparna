@@ -2,7 +2,7 @@
 
 **Raw Data File** - hr analytics data - employees attrition and leadership impact(csv file)
 
-**Data File uploaded in Power BI for Visualization after Data Cleaning and Modeling of Raw data** - HR_Analytics_File_To_Import_in_PBI_Aparna_DA70 (Excel File)
+**Data File imported in Power BI for Visualization after Data Cleaning and Modeling of Raw data** - HR_Analytics_File_To_Import_in_PBI_Aparna_DA70 (Excel File)
 
 **Data Visualization File** - HR_DataAnalytics_MiniProject_Aparna_DA70(Power BI File)
 
